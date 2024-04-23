@@ -1,0 +1,29 @@
+[
+    {
+      "model": "myapp.Product",
+      "pk": 1,
+      "fields": {
+        "name": "iPhone",
+        "price": "999.99",
+        "description": "Description of iPhone"
+      }
+    },
+    {
+      "model": "myapp.Product",
+      "pk": 2,
+      "fields": {
+        "name": "iPad",
+        "price": "1399.99",
+        "description": "Description of iPad"
+      }
+    },
+    {
+        "model": "myapp.Product",
+        "pk": 3,
+        "fields": {
+          "name": "iMac",
+          "price": "2399.99",
+          "description": "Description of iMac"
+        }
+      }
+  ]
